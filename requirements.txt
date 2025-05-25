@@ -1,0 +1,7 @@
+node
+bootstrap
+express
+body-parser
+cors
+mongoose
+web browser
